@@ -1,0 +1,139 @@
+*
+    body{
+        background-image: url(../imagen/motoportada.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: 'krub', sans-serif;
+        text-align: center;
+             
+    .titulo{
+        color:rgba(239, 237, 225, 0.923);
+        font-family: 'krub', sans-serif;
+        text-align: center;
+        
+    }
+
+    .panel{
+        padding: 10px;
+        width: 600px;  
+        display: flex;  
+        justify-content: center;
+        justify-content: space-evenly; 
+        text-decoration: none;    
+    }
+
+    .input{
+        background-color: rgba(246, 240, 216, 0.797);
+
+    }
+
+    .button{
+        background-color: rgb(226, 211, 178);
+        color:rgb(54, 48, 1);
+        text-decoration: none;
+        border-radius: .5rem;
+        padding: .9px;
+        width: 100px;
+        text-decoration: none;       
+
+    }
+
+      
+     .table1{
+        border-collapse: separate;
+        border-collapse:separate;
+        empty-cells: show;
+        table-layout: auto;
+        width: 15px;
+        background-color: rgba(243, 230, 156, 0.36);
+        color:rgba(7, 7, 7, 0.923);
+        font-family: 'krub', sans-serif;
+        text-align: center;
+       
+        
+    }    
+
+    .table2{
+        border-collapse: separate;
+        border-collapse:separate;
+        empty-cells: show;
+        table-layout: auto;
+        width: 15px;
+        background-color: rgba(243, 230, 156, 0.36);
+        color:rgba(7, 7, 7, 0.923);
+        font-family: 'krub', sans-serif;
+        text-align: center;
+    } 
+    
+    .caption{
+        color:rgba(26, 19, 12, 0.974);
+        font-family: 'krub', sans-serif;
+        text-align: center;
+        font-size: 23px;
+        font-weight: bolder;
+        text-align: left;
+        font-weight: bold;
+        
+    }
+
+    .table3{
+        border-collapse: separate;
+        border-collapse:separate;
+        empty-cells: show;
+        table-layout: auto;
+        width: 15px;
+        background-color: rgba(243, 230, 156, 0.36);
+        color:rgba(7, 7, 7, 0.923);
+        font-family: 'krub', sans-serif;
+        text-align: center;
+    } 
+
+    .table4{
+        border-collapse: separate;
+        border-collapse:separate;
+        empty-cells: show;
+        table-layout: auto;
+        width: 15px;
+        background-color: rgba(243, 230, 156, 0.36);
+        color:rgba(7, 7, 7, 0.923);
+        font-family: 'krub', sans-serif;
+        text-align: center;
+    } 
+    
+
+   
+
+    .iconos{
+        color:rgb(118, 49, 49)
+    }
+
+    
+    /* estilos.css */
+    
+    
+
+    
+    
+    
+    
+    /*
+    td:hover {
+        background-color: rgb(247, 251, 219) ; /* Cambiar el fondo al pasar el mouse */
+    }
+    
+    
+    
+
+    @media (min-width:768px) {
+        .button {
+            width: auto;
+        }
+    }
+
+            
+
+
+    
+
+    
